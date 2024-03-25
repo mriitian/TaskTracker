@@ -26,3 +26,21 @@ Before running the project, you need to have the following software installed on
 
 ```bash
 git clone https://github.com/mriitian/TaskTracker
+```
+
+2. Navigate to the project directory
+
+```bash
+cd TaskTracker
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+```bash
+npm run dev
+```
