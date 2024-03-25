@@ -12,7 +12,15 @@ export default function HomeHead() {
     >
       <h2>Task Tracker</h2>
       <div className="profile">
-        <i class="fa-solid fa-user" style={{width:"100px"}}></i>
+        <i
+          class="fa-solid fa-user"
+          style={{
+            fontSize: "35px",
+            padding: "10px 12px",
+            border: "1px solid",
+            borderRadius: "50%",
+          }}
+        ></i>
       </div>
     </div>
   );
