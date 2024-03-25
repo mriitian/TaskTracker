@@ -25,4 +25,4 @@ Before running the project, you need to have the following software installed on
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/mriitian/TaskTracker)https://github.com/mriitian/TaskTracker
+git clone https://github.com/mriitian/TaskTracker
