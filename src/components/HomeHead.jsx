@@ -12,7 +12,7 @@ export default function HomeHead() {
     >
       <h2>Task Tracker</h2>
       <div className="profile">
-        <img src="../../public/images/profile.png" alt="Profile" width={100} />
+        <i class="fa-solid fa-user" style={{width:"100px"}}></i>
       </div>
     </div>
   );
